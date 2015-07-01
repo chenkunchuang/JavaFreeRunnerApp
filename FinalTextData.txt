@@ -1,0 +1,7 @@
+Tortoise	10		0
+Hare		100		90
+Dog			50		40
+Cat			30		75
+Chenkun     50      40
+Bineet      50      40
+Java        50      40
